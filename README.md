@@ -5,7 +5,7 @@
 - 1. node install 20.15.1
   - `$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
   - `$ nvm install 20`
-- 2. `git clone https://github.com/honki12345/show-me-time.git show-me-time`
+- 2. `$ git clone https://github.com/honki12345/show-me-time.git show-me-time`
 - 3. `$ npm install`
 - 4. `$ node index.js`
  
